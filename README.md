@@ -28,8 +28,4 @@ Ponieważ korzystamy z darmowych, otwartych źródeł danych (OpenStreetMap) ora
 
 **Projekt jest w pełni otwarty na modyfikacje!** Zachęcam do pobierania kodu, testowania, wprowadzania poprawek i wspólnego rozwijania aplikacji.
 
-## 🚀 Jak uruchomić projekt lokalnie?
 
-1. Sklonuj repozytorium na swój komputer:
-   ```bash
-   git clone [https://github.com/TwojNick/ekobutelka.git](https://github.com/TwojNick/ekobutelka.git)
