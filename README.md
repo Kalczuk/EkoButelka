@@ -2,6 +2,8 @@
 
 **EKOButelka** to nowoczesna, wieloplatformowa aplikacja typu Progressive Web App (PWA) zbudowana we Flutterze. Jej celem jest ułatwienie użytkownikom korzystania z systemu kaucyjnego poprzez lokalizowanie recyklomatów oraz sklepów przyjmujących butelki (PET) i puszki (ALU), a także wirtualne zarządzanie zgromadzonymi środkami.
 
+👉 **🌐 Wypróbuj aplikację na żywo:** https://ekobutelka-776f7.web.app
+
 ## ✨ Główne funkcjonalności
 
 * 🗺️ **Interaktywna Mapa (OpenStreetMap API):** Wyszukiwanie punktów kaucyjnych, supermarketów i małych sklepów (Żabka, Biedronka, Dino itp.) w promieniu 5 km od użytkownika.
