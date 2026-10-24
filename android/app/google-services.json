@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "590854385270",
+    "project_id": "ekobutelka-776f7",
+    "storage_bucket": "ekobutelka-776f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590854385270:android:7bb500adf3bce46893f957",
+        "android_client_info": {
+          "package_name": "com.example.butelkomat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590854385270-bc3tbtkbsqem4a08n94sg86c4e95223v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3F2wucvMq9QY_DYxasc_d0AZBf3z7LDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590854385270-bc3tbtkbsqem4a08n94sg86c4e95223v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590854385270-76hoj241ntrj31ii9idcv4cebteva8b3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.butelkomat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590854385270:android:2db132f1a229ca3993f957",
+        "android_client_info": {
+          "package_name": "com.example.ekobutelka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590854385270-bc3tbtkbsqem4a08n94sg86c4e95223v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3F2wucvMq9QY_DYxasc_d0AZBf3z7LDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590854385270-bc3tbtkbsqem4a08n94sg86c4e95223v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590854385270-76hoj241ntrj31ii9idcv4cebteva8b3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.butelkomat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
